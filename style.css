@@ -1,0 +1,69 @@
+.navbar {
+    padding-left: 395px;
+    padding-right: 395px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.toplink {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "Inter", sans-serif;
+    cursor: pointer;
+    color: rgb(116, 113, 113);
+    font-size: 15;
+}
+
+.body1 {
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 75px;
+}
+.h1 {
+    font-size: 45;
+    font-weight: 550;
+    padding-top: 30px;
+    padding-bottom: 0.1px;
+    font-family: "Inter", sans-serif;
+    color: #424242;
+}
+.h3 {
+    font-family: "Inter", sans-serif;
+    color: #424242;
+    font-size: 20;
+}
+.hover-button {
+    background-color: rgb(56, 126, 209);
+    color: white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20;
+    border: solid;
+    border-radius: 7px;
+    font-family: "Inter", sans-serif;
+    cursor: pointer;
+    margin-top: 25px;
+    transition: background-color 0.1s ease;
+}
+.hover-button:hover {
+    background-color: black;
+}
+
+.text {
+    padding-top: 120px;
+    padding-left: 395px;
+    padding-right: 395px;
+    display: flex;
+    justify-content: space-between;
+}
+.t-h2 {
+    font-size: 32;
+    font-family: "Inter", sans-serif;
+    color: #424242;
+    font-weight: 300;
+}
